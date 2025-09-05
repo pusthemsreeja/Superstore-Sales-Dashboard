@@ -15,15 +15,6 @@ The dashboard answers key business questions such as:
 
 ---
 
-# 📊 Superstore Sales Dashboard (Power BI)
-
-This project is an **interactive Power BI dashboard** built on the popular **Superstore dataset**.  
-It transforms raw transactional data into **actionable business insights** by analyzing sales performance, profitability, customer behavior, and regional trends.  
-
-The primary goal of this project is to **practice storytelling with data** and demonstrate **business intelligence skills** by highlighting key KPIs and uncovering insights that can guide business decisions.  
-
----
-
 ## 🔑 Key Highlights & Insights
 
 ### 📊 Overall Metrics
@@ -89,6 +80,3 @@ The primary goal of this project is to **practice storytelling with data** and d
 
 ---
 
-## 📂 Project Structure
-
-("C:\Users\sreej\OneDrive\Pictures\Screenshots\SuperStore Sales dashboard.png")
