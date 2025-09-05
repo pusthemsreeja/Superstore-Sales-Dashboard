@@ -74,9 +74,9 @@ The dashboard answers key business questions such as:
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Power BI** – for data visualization and dashboard creation  
-- **Excel / CSV Dataset** – as the primary data source  
-- *(Optional)* Python / SQL – for data preprocessing and cleaning  
+- **Power BI** – for interactive data visualization and dashboard creation  
+- **Power Query** – for data preprocessing, transformation, and cleaning  
+- **Excel / CSV Dataset** – used as the primary data source 
 
 ---
 
